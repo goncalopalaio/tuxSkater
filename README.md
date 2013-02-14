@@ -1,7 +1,7 @@
 tuxSkater
 =========
 
-Video Game written using OpenGL
+Video Game written using OpenGL for the purpose of a School Project. This config where made in 2009, so they probably have changed a bit since
 
 =====================================
 Tux Skater
@@ -37,9 +37,7 @@ Packages necessárias :
 
 	Happy Gaming 
 
-=====================================
-Apoio Técnico 
-	nunok7@gmail.com 
-	t100n@hotmail.com
-=====================================
+====================================================
+Apoio Técnico : nunok7@gmail.com , t100n@hotmail.com
+====================================================
 
